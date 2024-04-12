@@ -28,8 +28,11 @@ df.head() <br />
 <img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Models_comparison.png" width="650" height="160"> <br /> 
 <br /> 
 LR was suggested to be the best model based on its highest accuracy rate (0.49696) <br /> 
+<br /> 
 Yet, in light of the imbalanced class distributions of the sample, precision score and recall have also been taken into consideration. The SVC model gives the highest precision, suggesting a higher ratio of correctly predicted positives to the total predicted positives. Nevertheless, if misclassifying an article is costly, then the LR model would be a better choice as it gives a higher recall (correctly predicted positive to the actual positive). <br /> 
+<br /> 
 In addition, LR requires less computational power (run-time about 3–5 minutes) compared to SVC (1 hour). <br /> 
+<br /> 
 Thus, this report concludes that LR is much preferable and should be chosen to classify the articles. <br /> 
 <br /> 
 <img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Confusion_matrix_LR.png" width="650" height="530"> <br /> 
