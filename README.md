@@ -1,6 +1,6 @@
 # NLP Analysis
 >### HuffPost Article Classification <br />
-<img src="https://github.com/chloecode86/Classification-AML/blob/main/image/AML_image.jpeg" width="600" height="280"> <br /> 
+<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/HuffPost.jpeg" width="600" height="280"> <br /> 
 <br /> 
 
 #### Business Objective
@@ -10,7 +10,7 @@ To predict the category of the article based on headline.
 #### Exploratory Data Analysis
 
 df.head() <br />
-<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/df.head.png" width="650" height="200"> <br /> 
+<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/df.head.png" width="750" height="200"> <br /> 
 <br />
 <img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/WordCloud.png" width="400" height="300"> <br /> 
 <br /> 
