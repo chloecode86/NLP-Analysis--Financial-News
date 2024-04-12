@@ -25,7 +25,7 @@ df.head() <br />
 
 #### Models Evaluation
 <br /> 
-<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Models_comparison.png" width="650" height="200"> <br /> 
+<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Models_comparison.png" width="650" height="180"> <br /> 
 <br /> 
 <img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Confusion_matrix_LR.png" width="650" height="530"> <br /> 
 <br /> 
