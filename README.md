@@ -10,7 +10,7 @@ To predict the category of the article based on headline.
 #### Exploratory Data Analysis
 
 df.head() <br />
-<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/df_head.png" width="650" height="380"> <br /> 
+<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/df.head.png" width="650" height="200"> <br /> 
 <br />
 <img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/WordCloud.png" width="400" height="300"> <br /> 
 <br /> 
