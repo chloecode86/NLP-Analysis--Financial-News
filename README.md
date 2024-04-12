@@ -4,7 +4,7 @@
 <br /> 
 
 #### Business Objective
-To predict the category of the article based on headline.
+To predict the category of the article based on headline and short discription.
 <br /> 
 
 #### Exploratory Data Analysis
