@@ -1,6 +1,6 @@
 # NLP Analysis
 >### HuffPost Article Classification <br />
-<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/HuffPost.jpeg" width="400" height="100"> <br /> 
+<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/HuffPost.jpeg" width="400" height="80"> <br /> 
 <br /> 
 
 #### Business Objective
@@ -18,9 +18,9 @@ df.head() <br />
 <br /> 
 <img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Top_10_Unigrams.png" width="400" height="230"> <br /> 
 <br /> 
-<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Top_10_Bigrams.png" width="500" height="200"> <br /> 
+<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Top_10_Bigrams.png" width="450" height="200"> <br /> 
 <br /> 
-<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Top_10_Trigrams.png" width="600" height="180"> <br /> 
+<img src="https://github.com/chloecode86/NLP-Analysis--Financial-News/blob/main/image/Top_10_Trigrams.png" width="500" height="180"> <br /> 
 <br /> 
 
 #### Models Evaluation
